@@ -7,16 +7,160 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		11F0D92C2CA1EABB00C299E0 /* TestFedotov.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestFedotov.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		11F0D92C2CA1EABB00C299E0 /* OperatorA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorA.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		11F0D96F2CA1F41000C299E0 /* OperatorB.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorB.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		11F0D9712CA1F41000C299E0 /* OperatorB.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorB.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/OperatorB.plist; sourceTree = "<absolute>"; };
+		11F0D9792CA1F5C500C299E0 /* OperatorC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorC.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		11F0D97B2CA1F5C500C299E0 /* OperatorC.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorC.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/OperatorC.plist; sourceTree = "<absolute>"; };
+		11F0D9832CA1F5C900C299E0 /* OperatorD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorD.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		11F0D9852CA1F5C900C299E0 /* OperatorD.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorD.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/OperatorD.plist; sourceTree = "<absolute>"; };
+		11F0D98D2CA1F5CB00C299E0 /* OperatorE.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorE.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		11F0D98F2CA1F5CB00C299E0 /* OperatorE.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorE.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/OperatorE.plist; sourceTree = "<absolute>"; };
+		11F0D9972CA1F5CE00C299E0 /* OperatorF.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorF.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		11F0D9992CA1F5CE00C299E0 /* OperatorF.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorF.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/OperatorF.plist; sourceTree = "<absolute>"; };
+		11F0D9A12CA1F5D000C299E0 /* OperatorG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorG.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		11F0D9A32CA1F5D000C299E0 /* OperatorG.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorG.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/OperatorG.plist; sourceTree = "<absolute>"; };
+		11F0D9AB2CA1F5D100C299E0 /* OperatorH.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorH.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		11F0D9AD2CA1F5D100C299E0 /* OperatorH.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorH.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/OperatorH.plist; sourceTree = "<absolute>"; };
+		11F0D9B52CA1F5D200C299E0 /* OperatorI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		11F0D9B62CA1F5D200C299E0 /* OperatorI.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorI.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/OperatorI.plist; sourceTree = "<absolute>"; };
+		11F0D9BF2CA1F5D300C299E0 /* OperatorJ.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorJ.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		11F0D9C12CA1F5D300C299E0 /* OperatorJ.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorJ.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/OperatorJ.plist; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		11F0D93E2CA1EABD00C299E0 /* Exceptions for "TestFedotov" folder in "TestFedotov" target */ = {
+		11F0D93E2CA1EABD00C299E0 /* Exceptions for "TestFedotov" folder in "OperatorA" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				SupportingFIles/Info.plist,
 			);
-			target = 11F0D92B2CA1EABB00C299E0 /* TestFedotov */;
+			target = 11F0D92B2CA1EABB00C299E0 /* OperatorA */;
+		};
+		11F0D9702CA1F41000C299E0 /* Exceptions for "TestFedotov" folder in "OperatorB" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"/Localized: LaunchScreen.storyboard",
+				Model/AppInfo.swift,
+				Resources/Assets.xcassets,
+				SupportingFIles/AppDelegate.swift,
+				SupportingFIles/Info.plist,
+				SupportingFIles/SceneDelegate.swift,
+				ViewControllers/AppViewController.swift,
+				ViewModel/AppViewModel.swift,
+			);
+			target = 11F0D9682CA1F41000C299E0 /* OperatorB */;
+		};
+		11F0D97A2CA1F5C500C299E0 /* Exceptions for "TestFedotov" folder in "OperatorC" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"/Localized: LaunchScreen.storyboard",
+				Model/AppInfo.swift,
+				Resources/Assets.xcassets,
+				SupportingFIles/AppDelegate.swift,
+				SupportingFIles/Info.plist,
+				SupportingFIles/SceneDelegate.swift,
+				ViewControllers/AppViewController.swift,
+				ViewModel/AppViewModel.swift,
+			);
+			target = 11F0D9722CA1F5C500C299E0 /* OperatorC */;
+		};
+		11F0D9842CA1F5C900C299E0 /* Exceptions for "TestFedotov" folder in "OperatorD" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"/Localized: LaunchScreen.storyboard",
+				Model/AppInfo.swift,
+				Resources/Assets.xcassets,
+				SupportingFIles/AppDelegate.swift,
+				SupportingFIles/Info.plist,
+				SupportingFIles/SceneDelegate.swift,
+				ViewControllers/AppViewController.swift,
+				ViewModel/AppViewModel.swift,
+			);
+			target = 11F0D97C2CA1F5C900C299E0 /* OperatorD */;
+		};
+		11F0D98E2CA1F5CB00C299E0 /* Exceptions for "TestFedotov" folder in "OperatorE" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"/Localized: LaunchScreen.storyboard",
+				Model/AppInfo.swift,
+				Resources/Assets.xcassets,
+				SupportingFIles/AppDelegate.swift,
+				SupportingFIles/Info.plist,
+				SupportingFIles/SceneDelegate.swift,
+				ViewControllers/AppViewController.swift,
+				ViewModel/AppViewModel.swift,
+			);
+			target = 11F0D9862CA1F5CB00C299E0 /* OperatorE */;
+		};
+		11F0D9982CA1F5CE00C299E0 /* Exceptions for "TestFedotov" folder in "OperatorF" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"/Localized: LaunchScreen.storyboard",
+				Model/AppInfo.swift,
+				Resources/Assets.xcassets,
+				SupportingFIles/AppDelegate.swift,
+				SupportingFIles/Info.plist,
+				SupportingFIles/SceneDelegate.swift,
+				ViewControllers/AppViewController.swift,
+				ViewModel/AppViewModel.swift,
+			);
+			target = 11F0D9902CA1F5CE00C299E0 /* OperatorF */;
+		};
+		11F0D9A22CA1F5D000C299E0 /* Exceptions for "TestFedotov" folder in "OperatorG" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"/Localized: LaunchScreen.storyboard",
+				Model/AppInfo.swift,
+				Resources/Assets.xcassets,
+				SupportingFIles/AppDelegate.swift,
+				SupportingFIles/Info.plist,
+				SupportingFIles/SceneDelegate.swift,
+				ViewControllers/AppViewController.swift,
+				ViewModel/AppViewModel.swift,
+			);
+			target = 11F0D99A2CA1F5D000C299E0 /* OperatorG */;
+		};
+		11F0D9AC2CA1F5D100C299E0 /* Exceptions for "TestFedotov" folder in "OperatorH" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"/Localized: LaunchScreen.storyboard",
+				Model/AppInfo.swift,
+				Resources/Assets.xcassets,
+				SupportingFIles/AppDelegate.swift,
+				SupportingFIles/Info.plist,
+				SupportingFIles/SceneDelegate.swift,
+				ViewControllers/AppViewController.swift,
+				ViewModel/AppViewModel.swift,
+			);
+			target = 11F0D9A42CA1F5D100C299E0 /* OperatorH */;
+		};
+		11F0D9B72CA1F5D200C299E0 /* Exceptions for "TestFedotov" folder in "OperatorI" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"/Localized: LaunchScreen.storyboard",
+				Model/AppInfo.swift,
+				Resources/Assets.xcassets,
+				SupportingFIles/AppDelegate.swift,
+				SupportingFIles/Info.plist,
+				SupportingFIles/SceneDelegate.swift,
+				ViewControllers/AppViewController.swift,
+				ViewModel/AppViewModel.swift,
+			);
+			target = 11F0D9AE2CA1F5D200C299E0 /* OperatorI */;
+		};
+		11F0D9C02CA1F5D300C299E0 /* Exceptions for "TestFedotov" folder in "OperatorJ" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"/Localized: LaunchScreen.storyboard",
+				Model/AppInfo.swift,
+				Resources/Assets.xcassets,
+				SupportingFIles/AppDelegate.swift,
+				SupportingFIles/Info.plist,
+				SupportingFIles/SceneDelegate.swift,
+				ViewControllers/AppViewController.swift,
+				ViewModel/AppViewModel.swift,
+			);
+			target = 11F0D9B82CA1F5D300C299E0 /* OperatorJ */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
@@ -24,7 +168,16 @@
 		11F0D92E2CA1EABB00C299E0 /* TestFedotov */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				11F0D93E2CA1EABD00C299E0 /* Exceptions for "TestFedotov" folder in "TestFedotov" target */,
+				11F0D93E2CA1EABD00C299E0 /* Exceptions for "TestFedotov" folder in "OperatorA" target */,
+				11F0D9702CA1F41000C299E0 /* Exceptions for "TestFedotov" folder in "OperatorB" target */,
+				11F0D97A2CA1F5C500C299E0 /* Exceptions for "TestFedotov" folder in "OperatorC" target */,
+				11F0D9842CA1F5C900C299E0 /* Exceptions for "TestFedotov" folder in "OperatorD" target */,
+				11F0D98E2CA1F5CB00C299E0 /* Exceptions for "TestFedotov" folder in "OperatorE" target */,
+				11F0D9982CA1F5CE00C299E0 /* Exceptions for "TestFedotov" folder in "OperatorF" target */,
+				11F0D9A22CA1F5D000C299E0 /* Exceptions for "TestFedotov" folder in "OperatorG" target */,
+				11F0D9AC2CA1F5D100C299E0 /* Exceptions for "TestFedotov" folder in "OperatorH" target */,
+				11F0D9B72CA1F5D200C299E0 /* Exceptions for "TestFedotov" folder in "OperatorI" target */,
+				11F0D9C02CA1F5D300C299E0 /* Exceptions for "TestFedotov" folder in "OperatorJ" target */,
 			);
 			path = TestFedotov;
 			sourceTree = "<group>";
@@ -39,6 +192,69 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		11F0D96A2CA1F41000C299E0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D9742CA1F5C500C299E0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D97E2CA1F5C900C299E0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D9882CA1F5CB00C299E0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D9922CA1F5CE00C299E0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D99C2CA1F5D000C299E0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D9A62CA1F5D100C299E0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D9B02CA1F5D200C299E0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D9BA2CA1F5D300C299E0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -46,6 +262,15 @@
 			isa = PBXGroup;
 			children = (
 				11F0D92E2CA1EABB00C299E0 /* TestFedotov */,
+				11F0D9712CA1F41000C299E0 /* OperatorB.plist */,
+				11F0D97B2CA1F5C500C299E0 /* OperatorC.plist */,
+				11F0D9852CA1F5C900C299E0 /* OperatorD.plist */,
+				11F0D98F2CA1F5CB00C299E0 /* OperatorE.plist */,
+				11F0D9992CA1F5CE00C299E0 /* OperatorF.plist */,
+				11F0D9A32CA1F5D000C299E0 /* OperatorG.plist */,
+				11F0D9AD2CA1F5D100C299E0 /* OperatorH.plist */,
+				11F0D9B62CA1F5D200C299E0 /* OperatorI.plist */,
+				11F0D9C12CA1F5D300C299E0 /* OperatorJ.plist */,
 				11F0D92D2CA1EABB00C299E0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +278,16 @@
 		11F0D92D2CA1EABB00C299E0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				11F0D92C2CA1EABB00C299E0 /* TestFedotov.app */,
+				11F0D92C2CA1EABB00C299E0 /* OperatorA.app */,
+				11F0D96F2CA1F41000C299E0 /* OperatorB.app */,
+				11F0D9792CA1F5C500C299E0 /* OperatorC.app */,
+				11F0D9832CA1F5C900C299E0 /* OperatorD.app */,
+				11F0D98D2CA1F5CB00C299E0 /* OperatorE.app */,
+				11F0D9972CA1F5CE00C299E0 /* OperatorF.app */,
+				11F0D9A12CA1F5D000C299E0 /* OperatorG.app */,
+				11F0D9AB2CA1F5D100C299E0 /* OperatorH.app */,
+				11F0D9B52CA1F5D200C299E0 /* OperatorI.app */,
+				11F0D9BF2CA1F5D300C299E0 /* OperatorJ.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,9 +295,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		11F0D92B2CA1EABB00C299E0 /* TestFedotov */ = {
+		11F0D92B2CA1EABB00C299E0 /* OperatorA */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 11F0D93F2CA1EABD00C299E0 /* Build configuration list for PBXNativeTarget "TestFedotov" */;
+			buildConfigurationList = 11F0D93F2CA1EABD00C299E0 /* Build configuration list for PBXNativeTarget "OperatorA" */;
 			buildPhases = (
 				11F0D9282CA1EABB00C299E0 /* Sources */,
 				11F0D9292CA1EABB00C299E0 /* Frameworks */,
@@ -76,11 +310,209 @@
 			fileSystemSynchronizedGroups = (
 				11F0D92E2CA1EABB00C299E0 /* TestFedotov */,
 			);
-			name = TestFedotov;
+			name = OperatorA;
 			packageProductDependencies = (
 			);
 			productName = TestFedotov;
-			productReference = 11F0D92C2CA1EABB00C299E0 /* TestFedotov.app */;
+			productReference = 11F0D92C2CA1EABB00C299E0 /* OperatorA.app */;
+			productType = "com.apple.product-type.application";
+		};
+		11F0D9682CA1F41000C299E0 /* OperatorB */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 11F0D96C2CA1F41000C299E0 /* Build configuration list for PBXNativeTarget "OperatorB" */;
+			buildPhases = (
+				11F0D9692CA1F41000C299E0 /* Sources */,
+				11F0D96A2CA1F41000C299E0 /* Frameworks */,
+				11F0D96B2CA1F41000C299E0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				11F0D92E2CA1EABB00C299E0 /* TestFedotov */,
+			);
+			name = OperatorB;
+			packageProductDependencies = (
+			);
+			productName = TestFedotov;
+			productReference = 11F0D96F2CA1F41000C299E0 /* OperatorB.app */;
+			productType = "com.apple.product-type.application";
+		};
+		11F0D9722CA1F5C500C299E0 /* OperatorC */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 11F0D9762CA1F5C500C299E0 /* Build configuration list for PBXNativeTarget "OperatorC" */;
+			buildPhases = (
+				11F0D9732CA1F5C500C299E0 /* Sources */,
+				11F0D9742CA1F5C500C299E0 /* Frameworks */,
+				11F0D9752CA1F5C500C299E0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				11F0D92E2CA1EABB00C299E0 /* TestFedotov */,
+			);
+			name = OperatorC;
+			packageProductDependencies = (
+			);
+			productName = TestFedotov;
+			productReference = 11F0D9792CA1F5C500C299E0 /* OperatorC.app */;
+			productType = "com.apple.product-type.application";
+		};
+		11F0D97C2CA1F5C900C299E0 /* OperatorD */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 11F0D9802CA1F5C900C299E0 /* Build configuration list for PBXNativeTarget "OperatorD" */;
+			buildPhases = (
+				11F0D97D2CA1F5C900C299E0 /* Sources */,
+				11F0D97E2CA1F5C900C299E0 /* Frameworks */,
+				11F0D97F2CA1F5C900C299E0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				11F0D92E2CA1EABB00C299E0 /* TestFedotov */,
+			);
+			name = OperatorD;
+			packageProductDependencies = (
+			);
+			productName = TestFedotov;
+			productReference = 11F0D9832CA1F5C900C299E0 /* OperatorD.app */;
+			productType = "com.apple.product-type.application";
+		};
+		11F0D9862CA1F5CB00C299E0 /* OperatorE */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 11F0D98A2CA1F5CB00C299E0 /* Build configuration list for PBXNativeTarget "OperatorE" */;
+			buildPhases = (
+				11F0D9872CA1F5CB00C299E0 /* Sources */,
+				11F0D9882CA1F5CB00C299E0 /* Frameworks */,
+				11F0D9892CA1F5CB00C299E0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				11F0D92E2CA1EABB00C299E0 /* TestFedotov */,
+			);
+			name = OperatorE;
+			packageProductDependencies = (
+			);
+			productName = TestFedotov;
+			productReference = 11F0D98D2CA1F5CB00C299E0 /* OperatorE.app */;
+			productType = "com.apple.product-type.application";
+		};
+		11F0D9902CA1F5CE00C299E0 /* OperatorF */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 11F0D9942CA1F5CE00C299E0 /* Build configuration list for PBXNativeTarget "OperatorF" */;
+			buildPhases = (
+				11F0D9912CA1F5CE00C299E0 /* Sources */,
+				11F0D9922CA1F5CE00C299E0 /* Frameworks */,
+				11F0D9932CA1F5CE00C299E0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				11F0D92E2CA1EABB00C299E0 /* TestFedotov */,
+			);
+			name = OperatorF;
+			packageProductDependencies = (
+			);
+			productName = TestFedotov;
+			productReference = 11F0D9972CA1F5CE00C299E0 /* OperatorF.app */;
+			productType = "com.apple.product-type.application";
+		};
+		11F0D99A2CA1F5D000C299E0 /* OperatorG */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 11F0D99E2CA1F5D000C299E0 /* Build configuration list for PBXNativeTarget "OperatorG" */;
+			buildPhases = (
+				11F0D99B2CA1F5D000C299E0 /* Sources */,
+				11F0D99C2CA1F5D000C299E0 /* Frameworks */,
+				11F0D99D2CA1F5D000C299E0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				11F0D92E2CA1EABB00C299E0 /* TestFedotov */,
+			);
+			name = OperatorG;
+			packageProductDependencies = (
+			);
+			productName = TestFedotov;
+			productReference = 11F0D9A12CA1F5D000C299E0 /* OperatorG.app */;
+			productType = "com.apple.product-type.application";
+		};
+		11F0D9A42CA1F5D100C299E0 /* OperatorH */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 11F0D9A82CA1F5D100C299E0 /* Build configuration list for PBXNativeTarget "OperatorH" */;
+			buildPhases = (
+				11F0D9A52CA1F5D100C299E0 /* Sources */,
+				11F0D9A62CA1F5D100C299E0 /* Frameworks */,
+				11F0D9A72CA1F5D100C299E0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				11F0D92E2CA1EABB00C299E0 /* TestFedotov */,
+			);
+			name = OperatorH;
+			packageProductDependencies = (
+			);
+			productName = TestFedotov;
+			productReference = 11F0D9AB2CA1F5D100C299E0 /* OperatorH.app */;
+			productType = "com.apple.product-type.application";
+		};
+		11F0D9AE2CA1F5D200C299E0 /* OperatorI */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 11F0D9B22CA1F5D200C299E0 /* Build configuration list for PBXNativeTarget "OperatorI" */;
+			buildPhases = (
+				11F0D9AF2CA1F5D200C299E0 /* Sources */,
+				11F0D9B02CA1F5D200C299E0 /* Frameworks */,
+				11F0D9B12CA1F5D200C299E0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				11F0D92E2CA1EABB00C299E0 /* TestFedotov */,
+			);
+			name = OperatorI;
+			packageProductDependencies = (
+			);
+			productName = TestFedotov;
+			productReference = 11F0D9B52CA1F5D200C299E0 /* OperatorI.app */;
+			productType = "com.apple.product-type.application";
+		};
+		11F0D9B82CA1F5D300C299E0 /* OperatorJ */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 11F0D9BC2CA1F5D300C299E0 /* Build configuration list for PBXNativeTarget "OperatorJ" */;
+			buildPhases = (
+				11F0D9B92CA1F5D300C299E0 /* Sources */,
+				11F0D9BA2CA1F5D300C299E0 /* Frameworks */,
+				11F0D9BB2CA1F5D300C299E0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				11F0D92E2CA1EABB00C299E0 /* TestFedotov */,
+			);
+			name = OperatorJ;
+			packageProductDependencies = (
+			);
+			productName = TestFedotov;
+			productReference = 11F0D9BF2CA1F5D300C299E0 /* OperatorJ.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -112,7 +544,16 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				11F0D92B2CA1EABB00C299E0 /* TestFedotov */,
+				11F0D92B2CA1EABB00C299E0 /* OperatorA */,
+				11F0D9682CA1F41000C299E0 /* OperatorB */,
+				11F0D9722CA1F5C500C299E0 /* OperatorC */,
+				11F0D97C2CA1F5C900C299E0 /* OperatorD */,
+				11F0D9862CA1F5CB00C299E0 /* OperatorE */,
+				11F0D9902CA1F5CE00C299E0 /* OperatorF */,
+				11F0D99A2CA1F5D000C299E0 /* OperatorG */,
+				11F0D9A42CA1F5D100C299E0 /* OperatorH */,
+				11F0D9AE2CA1F5D200C299E0 /* OperatorI */,
+				11F0D9B82CA1F5D300C299E0 /* OperatorJ */,
 			);
 		};
 /* End PBXProject section */
@@ -125,10 +566,136 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		11F0D96B2CA1F41000C299E0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D9752CA1F5C500C299E0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D97F2CA1F5C900C299E0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D9892CA1F5CB00C299E0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D9932CA1F5CE00C299E0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D99D2CA1F5D000C299E0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D9A72CA1F5D100C299E0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D9B12CA1F5D200C299E0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D9BB2CA1F5D300C299E0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		11F0D9282CA1EABB00C299E0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D9692CA1F41000C299E0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D9732CA1F5C500C299E0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D97D2CA1F5C900C299E0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D9872CA1F5CB00C299E0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D9912CA1F5CE00C299E0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D99B2CA1F5D000C299E0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D9A52CA1F5D100C299E0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D9AF2CA1F5D200C299E0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11F0D9B92CA1F5D300C299E0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -147,10 +714,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XYDNW9XVU2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TestFedotov/Info.plist;
+				INFOPLIST_FILE = TestFedotov/SupportingFiles/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -158,11 +724,15 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = fun.swiftpractice.TestFedotov;
+				PRODUCT_BUNDLE_IDENTIFIER = OperatorA;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -175,10 +745,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XYDNW9XVU2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TestFedotov/Info.plist;
+				INFOPLIST_FILE = TestFedotov/SupportingFiles/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -186,11 +755,15 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = fun.swiftpractice.TestFedotov;
+				PRODUCT_BUNDLE_IDENTIFIER = OperatorA;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -313,6 +886,564 @@
 			};
 			name = Release;
 		};
+		11F0D96D2CA1F41000C299E0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XYDNW9XVU2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OperatorB.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OperatorB;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		11F0D96E2CA1F41000C299E0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XYDNW9XVU2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OperatorB.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OperatorB;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		11F0D9772CA1F5C500C299E0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XYDNW9XVU2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OperatorC.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OperatorC;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		11F0D9782CA1F5C500C299E0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XYDNW9XVU2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OperatorC.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OperatorC;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		11F0D9812CA1F5C900C299E0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XYDNW9XVU2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OperatorD.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OperatorD;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		11F0D9822CA1F5C900C299E0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XYDNW9XVU2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OperatorD.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OperatorD;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		11F0D98B2CA1F5CB00C299E0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XYDNW9XVU2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OperatorE.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OperatorE;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		11F0D98C2CA1F5CB00C299E0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XYDNW9XVU2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OperatorE.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OperatorE;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		11F0D9952CA1F5CE00C299E0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XYDNW9XVU2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OperatorF.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OperatorF;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		11F0D9962CA1F5CE00C299E0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XYDNW9XVU2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OperatorF.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OperatorF;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		11F0D99F2CA1F5D000C299E0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XYDNW9XVU2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OperatorG.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OperatorG;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		11F0D9A02CA1F5D000C299E0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XYDNW9XVU2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OperatorG.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OperatorG;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		11F0D9A92CA1F5D100C299E0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XYDNW9XVU2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OperatorH.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OperatorH;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		11F0D9AA2CA1F5D100C299E0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XYDNW9XVU2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OperatorH.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OperatorH;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		11F0D9B32CA1F5D200C299E0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XYDNW9XVU2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OperatorI.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OperatorI;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		11F0D9B42CA1F5D200C299E0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XYDNW9XVU2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OperatorI.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OperatorI;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		11F0D9BD2CA1F5D300C299E0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XYDNW9XVU2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OperatorJ.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OperatorJ;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		11F0D9BE2CA1F5D300C299E0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XYDNW9XVU2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OperatorJ.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OperatorJ;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -325,11 +1456,92 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		11F0D93F2CA1EABD00C299E0 /* Build configuration list for PBXNativeTarget "TestFedotov" */ = {
+		11F0D93F2CA1EABD00C299E0 /* Build configuration list for PBXNativeTarget "OperatorA" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				11F0D9402CA1EABD00C299E0 /* Debug */,
 				11F0D9412CA1EABD00C299E0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		11F0D96C2CA1F41000C299E0 /* Build configuration list for PBXNativeTarget "OperatorB" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				11F0D96D2CA1F41000C299E0 /* Debug */,
+				11F0D96E2CA1F41000C299E0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		11F0D9762CA1F5C500C299E0 /* Build configuration list for PBXNativeTarget "OperatorC" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				11F0D9772CA1F5C500C299E0 /* Debug */,
+				11F0D9782CA1F5C500C299E0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		11F0D9802CA1F5C900C299E0 /* Build configuration list for PBXNativeTarget "OperatorD" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				11F0D9812CA1F5C900C299E0 /* Debug */,
+				11F0D9822CA1F5C900C299E0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		11F0D98A2CA1F5CB00C299E0 /* Build configuration list for PBXNativeTarget "OperatorE" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				11F0D98B2CA1F5CB00C299E0 /* Debug */,
+				11F0D98C2CA1F5CB00C299E0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		11F0D9942CA1F5CE00C299E0 /* Build configuration list for PBXNativeTarget "OperatorF" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				11F0D9952CA1F5CE00C299E0 /* Debug */,
+				11F0D9962CA1F5CE00C299E0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		11F0D99E2CA1F5D000C299E0 /* Build configuration list for PBXNativeTarget "OperatorG" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				11F0D99F2CA1F5D000C299E0 /* Debug */,
+				11F0D9A02CA1F5D000C299E0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		11F0D9A82CA1F5D100C299E0 /* Build configuration list for PBXNativeTarget "OperatorH" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				11F0D9A92CA1F5D100C299E0 /* Debug */,
+				11F0D9AA2CA1F5D100C299E0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		11F0D9B22CA1F5D200C299E0 /* Build configuration list for PBXNativeTarget "OperatorI" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				11F0D9B32CA1F5D200C299E0 /* Debug */,
+				11F0D9B42CA1F5D200C299E0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		11F0D9BC2CA1F5D300C299E0 /* Build configuration list for PBXNativeTarget "OperatorJ" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				11F0D9BD2CA1F5D300C299E0 /* Debug */,
+				11F0D9BE2CA1F5D300C299E0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
