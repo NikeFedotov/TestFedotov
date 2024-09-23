@@ -9,23 +9,23 @@
 /* Begin PBXFileReference section */
 		11F0D92C2CA1EABB00C299E0 /* OperatorA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		11F0D96F2CA1F41000C299E0 /* OperatorB.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorB.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		11F0D9712CA1F41000C299E0 /* OperatorB.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorB.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/OperatorB.plist; sourceTree = "<absolute>"; };
+		11F0D9712CA1F41000C299E0 /* OperatorB.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorB.plist; path = "/Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/New Group/OperatorB.plist"; sourceTree = "<absolute>"; };
 		11F0D9792CA1F5C500C299E0 /* OperatorC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorC.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		11F0D97B2CA1F5C500C299E0 /* OperatorC.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorC.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/OperatorC.plist; sourceTree = "<absolute>"; };
+		11F0D97B2CA1F5C500C299E0 /* OperatorC.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorC.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/Operators/OperatorC.plist; sourceTree = "<absolute>"; };
 		11F0D9832CA1F5C900C299E0 /* OperatorD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorD.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		11F0D9852CA1F5C900C299E0 /* OperatorD.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorD.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/OperatorD.plist; sourceTree = "<absolute>"; };
+		11F0D9852CA1F5C900C299E0 /* OperatorD.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorD.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/Operators/OperatorD.plist; sourceTree = "<absolute>"; };
 		11F0D98D2CA1F5CB00C299E0 /* OperatorE.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorE.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		11F0D98F2CA1F5CB00C299E0 /* OperatorE.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorE.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/OperatorE.plist; sourceTree = "<absolute>"; };
+		11F0D98F2CA1F5CB00C299E0 /* OperatorE.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorE.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/Operators/OperatorE.plist; sourceTree = "<absolute>"; };
 		11F0D9972CA1F5CE00C299E0 /* OperatorF.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorF.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		11F0D9992CA1F5CE00C299E0 /* OperatorF.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorF.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/OperatorF.plist; sourceTree = "<absolute>"; };
+		11F0D9992CA1F5CE00C299E0 /* OperatorF.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorF.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/Operators/OperatorF.plist; sourceTree = "<absolute>"; };
 		11F0D9A12CA1F5D000C299E0 /* OperatorG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorG.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		11F0D9A32CA1F5D000C299E0 /* OperatorG.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorG.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/OperatorG.plist; sourceTree = "<absolute>"; };
+		11F0D9A32CA1F5D000C299E0 /* OperatorG.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorG.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/Operators/OperatorG.plist; sourceTree = "<absolute>"; };
 		11F0D9AB2CA1F5D100C299E0 /* OperatorH.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorH.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		11F0D9AD2CA1F5D100C299E0 /* OperatorH.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorH.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/OperatorH.plist; sourceTree = "<absolute>"; };
+		11F0D9AD2CA1F5D100C299E0 /* OperatorH.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorH.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/Operators/OperatorH.plist; sourceTree = "<absolute>"; };
 		11F0D9B52CA1F5D200C299E0 /* OperatorI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorI.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		11F0D9B62CA1F5D200C299E0 /* OperatorI.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorI.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/OperatorI.plist; sourceTree = "<absolute>"; };
+		11F0D9B62CA1F5D200C299E0 /* OperatorI.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorI.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/Operators/OperatorI.plist; sourceTree = "<absolute>"; };
 		11F0D9BF2CA1F5D300C299E0 /* OperatorJ.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorJ.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		11F0D9C12CA1F5D300C299E0 /* OperatorJ.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorJ.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/OperatorJ.plist; sourceTree = "<absolute>"; };
+		11F0D9C12CA1F5D300C299E0 /* OperatorJ.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = OperatorJ.plist; path = /Users/nikita/Documents/IT/GitProjects/TestFedotov/TestFedotov/TestFedotov/Operators/OperatorJ.plist; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -40,13 +40,8 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				"/Localized: LaunchScreen.storyboard",
-				Model/AppInfo.swift,
 				Resources/Assets.xcassets,
-				SupportingFIles/AppDelegate.swift,
 				SupportingFIles/Info.plist,
-				SupportingFIles/SceneDelegate.swift,
-				ViewControllers/AppViewController.swift,
-				ViewModel/AppViewModel.swift,
 			);
 			target = 11F0D9682CA1F41000C299E0 /* OperatorB */;
 		};
@@ -54,13 +49,8 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				"/Localized: LaunchScreen.storyboard",
-				Model/AppInfo.swift,
 				Resources/Assets.xcassets,
-				SupportingFIles/AppDelegate.swift,
 				SupportingFIles/Info.plist,
-				SupportingFIles/SceneDelegate.swift,
-				ViewControllers/AppViewController.swift,
-				ViewModel/AppViewModel.swift,
 			);
 			target = 11F0D9722CA1F5C500C299E0 /* OperatorC */;
 		};
@@ -68,13 +58,8 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				"/Localized: LaunchScreen.storyboard",
-				Model/AppInfo.swift,
 				Resources/Assets.xcassets,
-				SupportingFIles/AppDelegate.swift,
 				SupportingFIles/Info.plist,
-				SupportingFIles/SceneDelegate.swift,
-				ViewControllers/AppViewController.swift,
-				ViewModel/AppViewModel.swift,
 			);
 			target = 11F0D97C2CA1F5C900C299E0 /* OperatorD */;
 		};
@@ -82,13 +67,8 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				"/Localized: LaunchScreen.storyboard",
-				Model/AppInfo.swift,
 				Resources/Assets.xcassets,
-				SupportingFIles/AppDelegate.swift,
 				SupportingFIles/Info.plist,
-				SupportingFIles/SceneDelegate.swift,
-				ViewControllers/AppViewController.swift,
-				ViewModel/AppViewModel.swift,
 			);
 			target = 11F0D9862CA1F5CB00C299E0 /* OperatorE */;
 		};
@@ -96,13 +76,8 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				"/Localized: LaunchScreen.storyboard",
-				Model/AppInfo.swift,
 				Resources/Assets.xcassets,
-				SupportingFIles/AppDelegate.swift,
 				SupportingFIles/Info.plist,
-				SupportingFIles/SceneDelegate.swift,
-				ViewControllers/AppViewController.swift,
-				ViewModel/AppViewModel.swift,
 			);
 			target = 11F0D9902CA1F5CE00C299E0 /* OperatorF */;
 		};
@@ -110,13 +85,8 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				"/Localized: LaunchScreen.storyboard",
-				Model/AppInfo.swift,
 				Resources/Assets.xcassets,
-				SupportingFIles/AppDelegate.swift,
 				SupportingFIles/Info.plist,
-				SupportingFIles/SceneDelegate.swift,
-				ViewControllers/AppViewController.swift,
-				ViewModel/AppViewModel.swift,
 			);
 			target = 11F0D99A2CA1F5D000C299E0 /* OperatorG */;
 		};
@@ -124,13 +94,8 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				"/Localized: LaunchScreen.storyboard",
-				Model/AppInfo.swift,
 				Resources/Assets.xcassets,
-				SupportingFIles/AppDelegate.swift,
 				SupportingFIles/Info.plist,
-				SupportingFIles/SceneDelegate.swift,
-				ViewControllers/AppViewController.swift,
-				ViewModel/AppViewModel.swift,
 			);
 			target = 11F0D9A42CA1F5D100C299E0 /* OperatorH */;
 		};
@@ -138,13 +103,8 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				"/Localized: LaunchScreen.storyboard",
-				Model/AppInfo.swift,
 				Resources/Assets.xcassets,
-				SupportingFIles/AppDelegate.swift,
 				SupportingFIles/Info.plist,
-				SupportingFIles/SceneDelegate.swift,
-				ViewControllers/AppViewController.swift,
-				ViewModel/AppViewModel.swift,
 			);
 			target = 11F0D9AE2CA1F5D200C299E0 /* OperatorI */;
 		};
@@ -152,13 +112,8 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				"/Localized: LaunchScreen.storyboard",
-				Model/AppInfo.swift,
 				Resources/Assets.xcassets,
-				SupportingFIles/AppDelegate.swift,
 				SupportingFIles/Info.plist,
-				SupportingFIles/SceneDelegate.swift,
-				ViewControllers/AppViewController.swift,
-				ViewModel/AppViewModel.swift,
 			);
 			target = 11F0D9B82CA1F5D300C299E0 /* OperatorJ */;
 		};
@@ -262,15 +217,7 @@
 			isa = PBXGroup;
 			children = (
 				11F0D92E2CA1EABB00C299E0 /* TestFedotov */,
-				11F0D9712CA1F41000C299E0 /* OperatorB.plist */,
-				11F0D97B2CA1F5C500C299E0 /* OperatorC.plist */,
-				11F0D9852CA1F5C900C299E0 /* OperatorD.plist */,
-				11F0D98F2CA1F5CB00C299E0 /* OperatorE.plist */,
-				11F0D9992CA1F5CE00C299E0 /* OperatorF.plist */,
-				11F0D9A32CA1F5D000C299E0 /* OperatorG.plist */,
-				11F0D9AD2CA1F5D100C299E0 /* OperatorH.plist */,
-				11F0D9B62CA1F5D200C299E0 /* OperatorI.plist */,
-				11F0D9C12CA1F5D300C299E0 /* OperatorJ.plist */,
+				11F0DAA02CA1FF0500C299E0 /* Operators */,
 				11F0D92D2CA1EABB00C299E0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -290,6 +237,22 @@
 				11F0D9BF2CA1F5D300C299E0 /* OperatorJ.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		11F0DAA02CA1FF0500C299E0 /* Operators */ = {
+			isa = PBXGroup;
+			children = (
+				11F0D9712CA1F41000C299E0 /* OperatorB.plist */,
+				11F0D97B2CA1F5C500C299E0 /* OperatorC.plist */,
+				11F0D9852CA1F5C900C299E0 /* OperatorD.plist */,
+				11F0D98F2CA1F5CB00C299E0 /* OperatorE.plist */,
+				11F0D9992CA1F5CE00C299E0 /* OperatorF.plist */,
+				11F0D9A32CA1F5D000C299E0 /* OperatorG.plist */,
+				11F0D9AD2CA1F5D100C299E0 /* OperatorH.plist */,
+				11F0D9B62CA1F5D200C299E0 /* OperatorI.plist */,
+				11F0D9C12CA1F5D300C299E0 /* OperatorJ.plist */,
+			);
+			path = Operators;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -895,7 +858,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XYDNW9XVU2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = OperatorB.plist;
+				INFOPLIST_FILE = Operators/OperatorB.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -926,7 +889,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XYDNW9XVU2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = OperatorB.plist;
+				INFOPLIST_FILE = Operators/OperatorB.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -957,7 +920,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XYDNW9XVU2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = OperatorC.plist;
+				INFOPLIST_FILE = Operators/OperatorC.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -988,7 +951,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XYDNW9XVU2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = OperatorC.plist;
+				INFOPLIST_FILE = Operators/OperatorC.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -1019,7 +982,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XYDNW9XVU2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = OperatorD.plist;
+				INFOPLIST_FILE = Operators/OperatorD.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -1050,7 +1013,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XYDNW9XVU2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = OperatorD.plist;
+				INFOPLIST_FILE = Operators/OperatorD.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -1081,7 +1044,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XYDNW9XVU2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = OperatorE.plist;
+				INFOPLIST_FILE = Operators/OperatorE.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -1112,7 +1075,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XYDNW9XVU2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = OperatorE.plist;
+				INFOPLIST_FILE = Operators/OperatorE.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -1143,7 +1106,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XYDNW9XVU2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = OperatorF.plist;
+				INFOPLIST_FILE = Operators/OperatorF.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -1174,7 +1137,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XYDNW9XVU2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = OperatorF.plist;
+				INFOPLIST_FILE = Operators/OperatorF.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -1205,7 +1168,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XYDNW9XVU2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = OperatorG.plist;
+				INFOPLIST_FILE = Operators/OperatorG.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -1236,7 +1199,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XYDNW9XVU2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = OperatorG.plist;
+				INFOPLIST_FILE = Operators/OperatorG.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -1263,11 +1226,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XYDNW9XVU2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = OperatorH.plist;
+				INFOPLIST_FILE = Operators/OperatorH.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -1279,6 +1243,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = OperatorH;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
@@ -1294,11 +1259,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XYDNW9XVU2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = OperatorH.plist;
+				INFOPLIST_FILE = Operators/OperatorH.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -1310,6 +1276,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = OperatorH;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
@@ -1329,7 +1296,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XYDNW9XVU2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = OperatorI.plist;
+				INFOPLIST_FILE = Operators/OperatorI.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -1360,7 +1327,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XYDNW9XVU2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = OperatorI.plist;
+				INFOPLIST_FILE = Operators/OperatorI.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -1391,7 +1358,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XYDNW9XVU2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = OperatorJ.plist;
+				INFOPLIST_FILE = Operators/OperatorJ.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -1422,7 +1389,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XYDNW9XVU2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = OperatorJ.plist;
+				INFOPLIST_FILE = Operators/OperatorJ.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
